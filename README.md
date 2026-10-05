@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hosein Golestaneh 👋
 
-<!--
-**hossengolestane-debug/hossengolestane-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python developer · AI-assisted builder**
 
-Here are some ideas to get you started:
+I enjoy turning ideas into practical tools and apps. I use AI-assisted (vibe) coding to prototype quickly, then refine ideas into working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- Python tools and desktop apps
+- Experiments in AI-assisted development
+
+## Featured projects
+- [GL-Optimizer](https://github.com/hossengolestane-debug/GL-Optimizer) — a desktop project focused on GameLoop performance.
+- [CraftStudio](https://github.com/hossengolestane-debug/CraftStudio) — a local workspace project for Minecraft modding.
+
+## Find me
+- [Website](https://dev-source.ir)
+- [YouTube](https://www.youtube.com/@dev-sourve)
+- [Browse all repositories](https://github.com/hossengolestane-debug?tab=repositories)
